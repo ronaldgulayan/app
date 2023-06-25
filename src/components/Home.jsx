@@ -33,9 +33,10 @@ function Home() {
         </div>
         <div className="home-right">
           <img
-            src="./img.png"
+            src={"/img.png"}
             draggable="false"
             title="Natalia (Cyber Spectre)"
+            alt="Image not found..."
           />
         </div>
       </div>
