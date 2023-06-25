@@ -10,7 +10,7 @@ function Background() {
     <Particles
       id="tsparticles"
       init={particlesInit}
-      style={{ position: "absolute", background: "url('../assets/bg.jpg')" }}
+      style={{ position: "absolute" }}
       options={{
         fullScreen: {
           enable: true,

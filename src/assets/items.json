@@ -5,7 +5,7 @@
       "description": "This is my very first shop ordering system",
       "language": "Java",
       "img_url": "./2nd/bg.png",
-      "video_url": "/2nd/shop_system.MP4",
+      "video_url": "./2nd/shop_system.MP4",
       "images": [
         "./2nd/img1.png","./2nd/img2.png","./2nd/img3.png"
       ]

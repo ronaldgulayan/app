@@ -33,7 +33,7 @@ function Home() {
         </div>
         <div className="home-right">
           <img
-            src="../assets/img.png"
+            src="./img.png"
             draggable="false"
             title="Natalia (Cyber Spectre)"
           />

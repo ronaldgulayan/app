@@ -35,7 +35,7 @@ function About() {
         ABOUT <b>ME</b>
       </h1>
       <div className="about-container">
-        <img src="../assets/pic.jpg" />
+        <img src="./pic.jpg" />
         <div>
           <h1>Software Developer / Web Developer</h1>
           <p>
