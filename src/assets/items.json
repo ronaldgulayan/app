@@ -1,0 +1,56 @@
+{
+  "datas": [
+    {
+      "title": "Simple Shop Ordering System",
+      "description": "This is my very first shop ordering system",
+      "language": "Java",
+      "img_url": "/2nd/bg.png",
+      "video_url": "/2nd/shop_system.MP4",
+      "images": [
+        "./2nd/img1.png","./2nd/img2.png","./2nd/img3.png"
+      ]
+    },
+    {
+      "title": "Portfolio Application",
+      "description": "This is my very first application that I made using Java language and I used Android Studio for it. This application contains information about myself and it also has a simple game.",
+      "language": "Java",
+      "img_url": "./first/bg.jpg",
+      "video_url": "",
+      "images": [
+        "./first/img1.jpg","./first/img2.jpg","./first/img3.jpg","./first/img4.jpg","./first/img5.jpg"
+      ]
+    },
+    {
+      "title": "Simple School Management System",
+      "description": "",
+      "language": "Java",
+      "img_url": "./3rd/bg.png",
+      "video_url": "./3rd/school_system.MP4",
+      "images": [
+        "./3rd/img1.png","./3rd/img2.png","./3rd/img3.png","./3rd/img4.png","./3rd/img5.png","./3rd/img6.png","./3rd/img7.png"
+      ]
+    },
+    {
+      "title": "Calculator",
+      "description": "",
+      "language": "HTML, CSS, Javascript",
+      "img_url": "./4th/bg.png",
+      "url": "https://ronaldgulayan.github.io/Calculator/calculator/",
+      "video_url": "",
+      "images": [
+        "./4th/bg.png"
+      ]
+    },
+    {
+      "title": "First Portfolio",
+      "description": "This is my first portfolio.",
+      "language": "HTML, CSS, Javascript",
+      "img_url": "./5th/bg.png",
+      "url": "https://ronaldgulayan.github.io/ron.portfolio.com/main.html",
+      "video_url": "",
+      "images": [
+        "./5th/img1.png","./5th/img2.png","./5th/img3.png"
+      ]
+    }
+  ]
+}
