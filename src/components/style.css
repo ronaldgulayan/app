@@ -1015,7 +1015,7 @@
   background-color: black;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
   padding: 0 var(--pad);
 }
 
@@ -1025,6 +1025,12 @@
 
 .footer p > b {
   color: var(--blue);
+}
+
+.footer-icons {
+  display: flex;
+  align-items: center;
+  column-gap: 10px;
 }
 
 /* DRAWER */
@@ -1136,5 +1142,10 @@
   }
   :root {
     --pad: 20px;
+  }
+  .footer {
+    flex-direction: column;
+    justify-content: center;
+    row-gap: 10px;
   }
 }
