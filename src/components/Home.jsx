@@ -20,10 +20,11 @@ function Home() {
           <h1 style={{ color: "#fff" }}>Hello!</h1>
           <a href="https://www.facebook.com/ronald.gulayan">
             <img
-              src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=FFFFFF&vCenter=true&width=550&lines=I'm+Ronald+Gulayan.;Future+Software+dev+or+Web+dev.;I+love+coding+and+playing+ol+games."
+              src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=4000&pause=700&color=FFFFFF&vCenter=true&width=300&lines=I'm+Ronald+Gulayan.;I'm+a+Developer.;I+love+coding.;Playing+ol+games."
               alt="Typing SVG"
             />
           </a>
+
           <p style={{ color: "#ccc" }}>
             Future Software Developer or Web Developer (Kung papalarin). This
             website contains information about myself and the applications I
