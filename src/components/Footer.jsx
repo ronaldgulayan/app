@@ -9,10 +9,10 @@ function Footer() {
       </p>
       <div className="footer-icons">
         <a href="https://github.com/ronaldgulayan" target="_blank">
-          <img src="/public/icons/github.png" alt="icon" />
+          <img src="./icons/github.png" alt="icon" />
         </a>
         <a href="https://www.facebook.com/ronald.gulayan/" target="_blank">
-          <img src="/public/icons/facebook.png" alt="icon" />
+          <img src="./icons/facebook.png" alt="icon" />
         </a>
       </div>
     </div>
