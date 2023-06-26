@@ -18,7 +18,12 @@ function Home() {
       <div className="home-container">
         <div className="home-left">
           <h1 style={{ color: "#fff" }}>Hello!</h1>
-          <TitleWriter size={40} />
+          <a href="https://git.io/typing-svg">
+            <img
+              src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=FFFFFF&vCenter=true&width=550&lines=I'm+Ronald+Gulayan.;Future+Software+dev+or+Web+dev.;I+love+coding+and+playing+ol+games."
+              alt="Typing SVG"
+            />
+          </a>
           <p style={{ color: "#ccc" }}>
             Future Software Developer or Web Developer (Kung papalarin). This
             website contains information about myself and the applications I
