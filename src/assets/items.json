@@ -54,9 +54,9 @@
     },
     {
       "title": "POS System for Meat Master",
-      "description": "This is my POS system for meat shop created using C# language. This is one of the large systems that I have developed.",
+      "description": "This is my POS system for a meat shop, created using the C# language. This is one of the large systems that I have developed.",
       "language": "C#",
-      "img_url": "./public/6th/bg.png",
+      "img_url": "./6th/bg.png",
       "url": "",
       "video_url": "./6th/meatmaster.mp4",  
       "images": [
