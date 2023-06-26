@@ -56,12 +56,23 @@
     {
       "title": "POS System for Meat Master",
       "description": "This is my POS system for a meat shop, created using the C# language. This is one of the large systems that I have developed.",
-      "language": "C#",
+      "language": "C#, MySQL",
       "img_url": "./6th/bg.png",
       "url": "",
       "video_url": "./6th/meatmaster.mp4",  
       "images": [
         "./6th/img1.png","./6th/img2.png","./6th/img3.png","./6th/img4.png","./6th/img5.png","./6th/img6.png","./6th/img7.png","./6th/img8.png","./6th/img9.png","./6th/img10.png","./6th/img11.png","./6th/img12.png","./6th/img13.png","./6th/img14.png"
+      ]
+    },
+    {
+      "title": "Attendance Management System",
+      "description": "This system can scan the QR codes of each student and record who has been scanned. Those who have been scanned will be marked as present, while those who haven't will be marked as absent. For those who arrive late, they will be marked as late.",
+      "language": "C#, MySQL",
+      "img_url": "./7th/bg.png",
+      "url": "",
+      "video_url": "./7th/attendance.mp4",  
+      "images": [
+        "./7th/img1.png","./7th/img2.png","./7th/img3.png","./7th/img4.png","./7th/img5.png","./7th/img6.png","./7th/img7.png","./7th/img8.png","./7th/img9.png","./7th/img10.png","./7th/img11.png","./7th/img12.png","./7th/img13.png","./7th/img14.png","./7th/img15.png"
       ]
     }
   ]
