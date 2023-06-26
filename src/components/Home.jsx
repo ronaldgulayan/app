@@ -18,7 +18,7 @@ function Home() {
       <div className="home-container">
         <div className="home-left">
           <h1 style={{ color: "#fff" }}>Hello!</h1>
-          <a href="https://git.io/typing-svg">
+          <a href="https://www.facebook.com/ronald.gulayan">
             <img
               src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=FFFFFF&vCenter=true&width=550&lines=I'm+Ronald+Gulayan.;Future+Software+dev+or+Web+dev.;I+love+coding+and+playing+ol+games."
               alt="Typing SVG"
