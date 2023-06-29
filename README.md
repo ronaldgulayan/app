@@ -1,3 +1,3 @@
 # PORTFOLIO
 
-This portfolio was created using react
+This portfolio was created using ReactJS.
