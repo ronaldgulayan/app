@@ -18,6 +18,7 @@ function SkillContainer() {
         <Skill text="C#" value={70} />
         <Skill text="PYTHON" value={50} />
         <Skill text="FIGMA" value={50} />
+        <Skill text="MYSQL" value={50} />
       </div>
     </div>
   );
