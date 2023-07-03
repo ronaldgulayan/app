@@ -1,5 +1,4 @@
 import React from "react";
-import TitleWriter from "./TitleWriter";
 import Button from "./Button";
 import $ from "jquery";
 
