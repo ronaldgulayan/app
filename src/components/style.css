@@ -280,7 +280,7 @@
   color: #000;
   font-weight: bold;
   margin-bottom: 10px;
-  line-height: 2rem;
+  line-height: 2.2rem;
 }
 
 .about-container > div p {
@@ -301,12 +301,18 @@
 }
 
 .info ul li {
-  font-size: 20px;
+  font-size: 17px;
 }
 
 .info ul li b {
   color: #777;
   font-weight: normal;
+}
+
+.about-us-btns {
+  display: flex;
+  column-gap: 10px;
+  padding: 10px 0;
 }
 
 /* CUSTOM BUTTON */
@@ -317,6 +323,7 @@
   border-radius: 5px;
   cursor: pointer;
   user-select: none;
+  text-align: center;
 }
 
 .customButton:hover {

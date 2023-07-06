@@ -68,11 +68,23 @@ function About() {
               </li>
             </ul>
           </div>
-          <CustomButton
-            clickEvent={clickEvent}
-            text="My Skills and Tools"
-            color="rgb(0, 136, 136)"
-          />
+          <div className="about-us-btns">
+            <CustomButton
+              clickEvent={clickEvent}
+              text="My Skills and Tools"
+              color="rgb(0, 136, 136)"
+            />
+            <CustomButton
+              clickEvent={() => {
+                const link = document.createElement("a");
+                link.href = "../assets/CV.pdf";
+                link.download = "RonaldGulayanCV.pdf";
+                link.click();
+              }}
+              text="Download my CV"
+              color="rgb(0, 136, 136)"
+            />
+          </div>
         </div>
       </div>
     </div>
