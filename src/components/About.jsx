@@ -77,7 +77,7 @@ function About() {
             <CustomButton
               clickEvent={() => {
                 const link = document.createElement("a");
-                link.href = "../assets/CV.pdf";
+                link.href = "./CVFolder/CV.pdf";
                 link.download = "RonaldGulayanCV.pdf";
                 link.click();
               }}
