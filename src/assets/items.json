@@ -74,6 +74,17 @@
       "images": [
         "./7th/img1.png","./7th/img2.png","./7th/img3.png","./7th/img4.png","./7th/img5.png","./7th/img6.png","./7th/img7.png","./7th/img8.png","./7th/img9.png","./7th/img10.png","./7th/img11.png","./7th/img12.png","./7th/img13.png","./7th/img14.png","./7th/img15.png"
       ]
+    },
+    {
+      "title": "Sample comment box.",
+      "description": "My first sample comment box.",
+      "language": "HTML, CSS, JS, PHP, MySQL",
+      "img_url": "./8th/bg.png",
+      "url": "https://gcst.000webhostapp.com/",
+      "video_url": "",  
+      "images": [
+        "./8th/bg.png"
+      ]
     }
   ]
 }
