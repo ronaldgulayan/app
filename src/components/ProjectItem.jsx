@@ -2,14 +2,6 @@ import React from "react";
 import "./style.css";
 
 function ProjectItem({ data = {}, openEvent, openVideoEvent }) {
-  function openEventHandler() {
-    openEvent(data);
-  }
-
-  function openVideoEventHandler() {
-    openVideoEvent(data);
-  }
-
   return (
     <div className="project-item">
       <img
@@ -30,9 +22,9 @@ function ProjectItem({ data = {}, openEvent, openVideoEvent }) {
             : "No Description"}
         </p>
         <div>
-          <button onClick={openEventHandler}>SHOW MORE</button>
+          <button onClick={() => openEvent(data)}>SHOW MORE</button>
           {data.video_url && (
-            <button onClick={openVideoEventHandler}>SHOW VIDEO</button>
+            <button onClick={() => openVideoEvent(data)}>SHOW VIDEO</button>
           )}
         </div>
         <h4 className="lang">{data.language}</h4>

@@ -25,7 +25,7 @@ function Home() {
           </a>
 
           <p style={{ color: "#ccc" }}>
-            Future Software Developer or Web Developer. This website contains
+            Future Application Developer or Web Developer. This website contains
             information about myself and the applications I have created. I am a
             person who loves to explore things, especially when it comes to
             technology.
