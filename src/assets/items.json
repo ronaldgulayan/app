@@ -90,11 +90,11 @@
       "title": "ATM Card Generator.",
       "description": "Sample generator.",
       "language": "React JS",
-      "img_url": "./9th/card.png",
+      "img_url": "./9th/card1.png",
       "url": "https://atm-card-generators.netlify.app/",
       "video_url": "",
       "images": [
-        "./9th/card.png"
+        "./9th/card1.png"
       ]
     }
   ]
